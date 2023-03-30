@@ -5,8 +5,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.evn.example
-.gitigonre
+.env.example
+.gitignore
 
 # testing
 /coverage
